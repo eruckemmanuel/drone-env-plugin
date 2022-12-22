@@ -1,4 +1,4 @@
-# drone-env-variable-api-plugin
+# drone-env-variable-plugin-api
 
 [![Build Status](https://cicd.vehseh.com/api/badges/Vehseh/drone-env-plugin-api/status.svg)](https://cicd.vehseh.com/Vehseh/drone-env-plugin-api)
 
